@@ -21,7 +21,7 @@
 
 Senior Full Stack Software Engineer with **24+ years** building enterprise web applications for **government, aviation, healthcare, and commodity trading**. Deep expertise in **Angular (v8–21)**, **Node.js**, **TypeScript**, REST/microservices, and relational/NoSQL databases.
 
-AI-augmented engineering leader — uses **Claude (Anthropic)** and **GitHub Copilot** as daily pair-programming and code-review partners to accelerate delivery and raise code quality. Proven record delivering mission-critical systems used by millions of citizens (Istanbul Metropolitan Municipality, population 16M+). Open to **on-site, hybrid, or remote** roles.
+AI-augmented engineering leader — uses **Cursor**, **Claude (Anthropic)**, and **GitHub Copilot** as daily pair-programming and code-review partners to accelerate delivery and raise code quality. Proven record delivering mission-critical systems used by millions of citizens (Istanbul Metropolitan Municipality, population 16M+). Open to **on-site, hybrid, or remote** roles.
 
 ---
 
@@ -44,7 +44,7 @@ Multi-category global classifieds platform (vehicles, real estate, marketplace, 
 | **Databases** | PostgreSQL, MySQL, Microsoft SQL Server, Oracle, MongoDB, OrientDB, SQLite, Redis |
 | **DevOps** | Git, Linux (Ubuntu), Nginx, Apache, Docker, CI/CD, Postman |
 | **GIS** | ESRI ArcGIS, geospatial conversion, map-based public services |
-| **AI-assisted** | Claude, GitHub Copilot, prompt engineering, human-in-the-loop quality control |
+| **AI-assisted** | Cursor, Claude (Anthropic), GitHub Copilot — pair-programming, code review, architecture; prompt engineering & human-in-the-loop quality control |
 | **Also** | C#.NET, Python (IoT / Raspberry Pi), Survey.js, Power BI / SPSS export, Agile / Scrum |
 
 ---
