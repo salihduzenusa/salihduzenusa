@@ -21,3 +21,6 @@ Hi — I'm the builder behind **[D3M.io](https://d3m.io)**, a global classifieds
 
 ### Stack
 `Angular` · `TypeScript` · `Fastify` · `PostgreSQL` · `Meilisearch` · `Redis` · `Stripe`
+
+### Resume
+- [Download CV (PDF)](docs/Salih_Duzen_Resume_2026.pdf)
