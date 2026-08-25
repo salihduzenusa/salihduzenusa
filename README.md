@@ -1,5 +1,7 @@
 # About
 
+<p align="center"><img src="assets/d3m-logo.png" alt="D3M" width="120"/></p>
+
 Hi — I'm the builder behind **[D3M.io](https://d3m.io)**, a global classifieds marketplace.
 
 <p align="center">
