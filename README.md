@@ -11,8 +11,9 @@
 [![CV](https://img.shields.io/badge/CV-Download_PDF-ef4444?style=for-the-badge)](docs/Salih_Duzen_Resume_2026.pdf)
 [![D3M.io](https://img.shields.io/badge/Product-d3m.io-4f46e5?style=for-the-badge)](https://d3m.io)
 [![Showcase](https://img.shields.io/badge/GitHub-d3m--io-111827?style=for-the-badge)](https://github.com/salihduzenusa/d3m-io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salihduzen-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salihduzen)
 
-📧 salihduzen@gmail.com · 📞 +1 (240) 981-0959
+📧 salihduzen@gmail.com · 📞 +1 (240) 981-0959 · [LinkedIn](https://www.linkedin.com/in/salihduzen)
 
 ---
 
